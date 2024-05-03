@@ -33,7 +33,7 @@
 <h3 align="center">📝 Portfolio</h3>
 <div align="center">
  
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cborange&repo=MyBoard_Web)](https://github.com/anuraghazra/github-readme-stats)
+ [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cborange&repo=MyBoard_Web)](https://github.com/CBorange/MyBoard_Web)
 </div>
 
 <br/>
@@ -42,7 +42,7 @@
 <h3 align="center">👩‍💻 Github Stats</h3>
 <div align="center">
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cborange&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/CBorange/MyBoard_Web)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cborange&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
 </div>
 
 
