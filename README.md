@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 안녕하세요 Back-End Engineer 이태준 입니다.
 
 <!--
 **CBorange/CBorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
