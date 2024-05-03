@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Lee&nbsp;Tae&nbsp;June&rotate=10&fontSize=40&fontAlign=80&fontAlignY=0&desc=Back-End&nbsp;Engineer&descAlign=80&descAlignY=20&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Lee&nbsp;Tae&nbsp;June&rotate=10&fontSize=40&fontAlign=80&fontAlignY=0&desc=Back-End&nbsp;Engineer&descAlign=80&descAlignY=20&color=gradient&customColorList=0,2,2,5,30)
 
 ### 👋 안녕하세요 Back-End Engineer 이태준 입니다.  
 
