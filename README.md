@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Lee&nbsp;Tae&nbsp;June&rotate=10&fontSize=40&fontAlign=80&fontAlignY=0&desc=Back-End&nbsp;Engineer&descAlign=80&descAlignY=20&color=gradient&customColorList=0,2,2,5,30)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Lee&nbsp;Tae&nbsp;Jun&rotate=10&fontSize=40&fontAlign=80&fontAlignY=0&desc=Back-End&nbsp;Engineer&descAlign=80&descAlignY=20&color=gradient&customColorList=0,2,2,5,30)
 
 <br/>
 
@@ -42,10 +42,14 @@
 <h3 align="center">👩‍💻 Github Stats</h3>
 <div align="center">
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cborange&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)]
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cborange&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
 </div>
 
-
+<h3 align="center">📫 Contact me</h3>
+<div align="center">
+ 
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ltjbs2020@gmail.com)
+</div>
 
 <!--
 **CBorange/CBorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
