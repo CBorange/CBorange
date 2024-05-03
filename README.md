@@ -48,7 +48,8 @@
 <h3 align="center">📫 Contact me</h3>
 <div align="center">
  
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ltjbs2020@gmail.com)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ltjbs2020@gmail.com)
+ 
 </div>
 
 <!--
